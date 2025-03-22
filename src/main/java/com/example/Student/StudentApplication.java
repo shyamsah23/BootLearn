@@ -11,6 +11,7 @@ public class StudentApplication {
 		SpringApplication.run(StudentApplication.class, args);
 		
 		System.out.println("Hello World");
+		System.out.println("Hello From Test");
 	}
 
 }
